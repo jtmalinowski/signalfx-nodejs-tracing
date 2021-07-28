@@ -1,5 +1,5 @@
 Component,Origin,License,Copyright
-require,@adonisjs/fold,MIT,Copyright 2019 Harminder Virk 
+require,@adonisjs/fold,MIT,Copyright 2019 Harminder Virk
 require,@adonisjs/sink,MIT,Copyright 2016 Harminder Virk
 require,@types/node,MIT,Copyright Authors
 require,async-hook-jl,MIT,Copyright 2015 Andreas Madsen
@@ -56,4 +56,5 @@ dev,sinon-chai,WTFPL and BSD-2-Clause,Copyright 2004 Sam Hocevar 2012–2017 Dom
 dev,socket.io-client,MIT,2014 Guillermo Rauch
 dev,tape,MIT,Copyright James Halliday
 dev,v8-coverage,ISC,Copyright Eywek
+dev,yarn,BSD-2-Clause,Copyright Facebook
 file,TDigest.h,Apache license 2.0,Copyright Derrick R. Burns

@@ -13,6 +13,7 @@
     "type:doc": "cd docs && yarn && yarn build",
     "type:test": "cd docs && yarn && yarn test",
     "lint": "eslint . && node scripts/check_licenses.js",
+    "lint:fix": "eslint --fix .",
     "services": "node ./scripts/install_plugin_modules && node test/setup/services",
     "startContainers": "docker-compose up -d -V --remove-orphans --force-recreate",
     "tdd": "yarn services && NO_DEPRECATION=* mocha --watch 'test/setup/**/*.js'",
